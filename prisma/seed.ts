@@ -123,6 +123,7 @@ async function seedDatabase() {
           },
         });
       }
+      
 
       barbershops.push(barbershop);
     }
